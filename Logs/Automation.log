@@ -1,0 +1,224 @@
+17-Jun-26 21:12:59:  INFO: ====== WebDriver manager ======
+17-Jun-26 21:13:01:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:13:01:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:13:01:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+17-Jun-26 21:13:03:  INFO: ********* Setup complete *********
+17-Jun-26 21:13:11:  INFO: OrangeHRM page title
+17-Jun-26 21:13:47:  INFO: ====== WebDriver manager ======
+17-Jun-26 21:13:49:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:13:49:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:13:49:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+17-Jun-26 21:13:51:  INFO: ********* Setup complete *********
+17-Jun-26 21:13:59:  INFO: OrangeHRM page title
+17-Jun-26 21:13:59:  INFO: ====== WebDriver manager ======
+17-Jun-26 21:14:02:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:14:02:  INFO: Get LATEST chromedriver version for google-chrome
+17-Jun-26 21:14:02:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+17-Jun-26 21:14:22:  INFO:     Login clicked    
+17-Jun-26 21:14:27:  INFO:   Login completed    
+18-Jun-26 08:49:55:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:49:57:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:49:57:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:49:57:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:49:58:  INFO: WebDriver version 149.0.7827.155 selected
+18-Jun-26 08:49:58:  INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+18-Jun-26 08:49:58:  INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+18-Jun-26 08:49:58:  INFO: Driver downloading response is 200
+18-Jun-26 08:50:04:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:04:  INFO: Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+18-Jun-26 08:50:06:  INFO: ********* Setup complete *********
+18-Jun-26 08:50:22:  INFO: OrangeHRM page title
+18-Jun-26 08:50:22:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:50:24:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:24:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:24:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:50:30:  INFO:  failed username tile <selenium.webdriver.remote.webelement.WebElement (session="61dab0362ce784f8afc40f4933b002af", element="f.1B897B2C7E3DF78EB74A8EA6F7E21C36.d.D3D5780FF38E956D179441416D76F780.e.5")> 
+18-Jun-26 08:50:31:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:50:32:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:32:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:32:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:50:40:  INFO:  failed Password tile <selenium.webdriver.remote.webelement.WebElement (session="c77f12450f73f1e234ef558c1037144e", element="f.D5A1729ACF21A5A9A43BEB0747524452.d.B0484AB7557B8103F821F6EAE64FAD89.e.5")> 
+18-Jun-26 08:50:40:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:50:42:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:42:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:50:42:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:50:47:  INFO:     Login clicked    
+18-Jun-26 08:50:52:  INFO:   Login completed    
+18-Jun-26 08:51:39:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:51:41:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:41:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:41:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:51:42:  INFO: ********* Setup complete *********
+18-Jun-26 08:51:45:  INFO: OrangeHRM page title
+18-Jun-26 08:51:45:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:51:47:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:47:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:47:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:51:51:  INFO:  correct username tile Username 
+18-Jun-26 08:51:52:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:51:53:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:53:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:51:53:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:51:58:  INFO:  correct Password tile Password 
+18-Jun-26 08:51:58:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:52:00:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:52:00:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:52:00:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:52:07:  INFO:     Login clicked    
+18-Jun-26 08:52:12:  INFO:   Login completed    
+18-Jun-26 08:55:34:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:55:36:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:55:36:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:55:36:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:56:17:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:56:18:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:56:18:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:56:18:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:57:51:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:57:52:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:57:52:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:57:52:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:58:30:  INFO: ====== WebDriver manager ======
+18-Jun-26 08:58:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:58:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 08:58:31:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 08:58:37:  INFO:  correct Login tile ***Login***
+18-Jun-26 09:07:43:  INFO: ====== WebDriver manager ======
+18-Jun-26 09:07:44:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:07:44:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:07:44:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 09:07:49:  INFO:  failed Password tile Forgot your password? 
+18-Jun-26 09:08:10:  INFO: ====== WebDriver manager ======
+18-Jun-26 09:08:11:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:08:11:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:08:11:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 09:08:17:  INFO:  correct Password tile Forgot your password? 
+18-Jun-26 09:14:16:  INFO: ====== WebDriver manager ======
+18-Jun-26 09:14:17:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:14:17:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:14:17:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 09:14:25:  INFO:  failed to land on reset password page
+18-Jun-26 09:15:27:  INFO: ====== WebDriver manager ======
+18-Jun-26 09:15:28:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:15:28:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 09:15:29:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 09:15:36:  INFO:  successfully landed on reset password page
+18-Jun-26 12:33:47:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:33:50:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:33:50:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:33:50:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:36:09:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:36:10:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:36:10:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:36:11:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:37:57:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:37:59:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:37:59:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:37:59:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:40:06:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:40:08:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:40:08:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:40:08:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:40:39:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:40:41:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:40:41:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:40:41:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:40:53:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:42:32:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:42:33:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:42:34:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:42:34:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:42:46:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:44:40:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:44:42:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:44:43:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:44:43:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:45:03:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:46:16:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:46:18:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:46:18:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:46:18:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:46:35:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:48:49:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:48:51:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:48:51:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:48:51:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:49:15:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:55:58:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:56:00:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:56:00:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:56:00:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:57:29:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:57:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:57:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:57:31:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:57:55:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:57:56:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:57:56:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:57:57:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:58:10:  INFO:     Logout clicked    
+18-Jun-26 12:58:11:  INFO: successfully landed on login page
+18-Jun-26 12:58:40:  INFO: ====== WebDriver manager ======
+18-Jun-26 12:58:41:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:58:43:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 12:58:43:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 12:59:04:  INFO: successfully logged in and meet the expectation
+18-Jun-26 12:59:46:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 21:43:29:  INFO: ====== WebDriver manager ======
+18-Jun-26 21:43:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:43:32:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:43:32:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 21:44:04:  INFO: successfully logged in and meet the expectation
+18-Jun-26 21:44:10:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 21:46:22:  INFO: ====== WebDriver manager ======
+18-Jun-26 21:46:24:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:46:25:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:46:25:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 21:47:01:  INFO: successfully logged in and meet the expectation
+18-Jun-26 21:47:26:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 21:52:29:  INFO: ====== WebDriver manager ======
+18-Jun-26 21:52:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:52:31:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:52:31:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 21:57:22:  INFO: ====== WebDriver manager ======
+18-Jun-26 21:57:24:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:57:24:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:57:24:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 21:58:24:  INFO: ====== WebDriver manager ======
+18-Jun-26 21:58:26:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:58:26:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 21:58:26:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 21:58:58:  INFO: successfully logged in and meet the expectation
+18-Jun-26 21:59:09:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 22:01:04:  INFO: ====== WebDriver manager ======
+18-Jun-26 22:01:05:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:01:06:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:01:06:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 22:01:39:  INFO: successfully logged in and meet the expectation
+18-Jun-26 22:01:47:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 22:02:06:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:02:22:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:08:33:  INFO: ====== WebDriver manager ======
+18-Jun-26 22:08:34:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:08:35:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:08:35:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 22:09:11:  INFO: successfully logged in and meet the expectation
+18-Jun-26 22:09:24:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 22:09:40:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:09:56:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:10:25:  INFO: ====== WebDriver manager ======
+18-Jun-26 22:10:26:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:10:27:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:10:27:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 22:10:46:  INFO: successfully logged in and meet the expectation
+18-Jun-26 22:10:53:  INFO: successfully logged in but unbale to  meet the expectation
+18-Jun-26 22:11:11:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:11:27:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:18:39:  INFO: ====== WebDriver manager ======
+18-Jun-26 22:18:40:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:18:40:  INFO: Get LATEST chromedriver version for google-chrome
+18-Jun-26 22:18:40:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver.exe] found in cache
+18-Jun-26 22:19:12:  INFO: successfully logged in and meet the expectation
+18-Jun-26 22:19:34:  INFO: successfully logged in and meet the expectation
+18-Jun-26 22:19:57:  INFO: invalid credentials and meet the expectations
+18-Jun-26 22:20:12:  INFO: invalid credentials and meet the expectations
