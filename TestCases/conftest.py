@@ -5,7 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
 
-@pytest.fixture
+@pytest.fixture(scope="session")
 def setup(browser):
     if browser == 'chrome':
         service = Service(ChromeDriverManager().install())
@@ -15,11 +15,12 @@ def setup(browser):
     else:
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service)
+    yield driver
+    driver.quit()
 
-    return driver
 def pytest_addoption(parser):
     parser.addoption("--browser")
 
-@pytest.fixture
+@pytest.fixture(scope="session")
 def browser(request):
     return request.config.getoption("--browser")
