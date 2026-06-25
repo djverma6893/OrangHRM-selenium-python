@@ -5,16 +5,18 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 
 
-@pytest.fixture(scope="session")
+@pytest.fixture(scope="function")
 def setup(browser):
     if browser == 'chrome':
         service = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=service)
+        options = Options()
+        options.add_argument("--headless")  # Run Chrome in headless mode
+        driver = webdriver.Chrome(service=service,options=options)
     elif browser == 'firefox':
         driver = webdriver.Firefox()
     else:
         service = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=service)
+        driver=webdriver.Chrome(service=service)
     yield driver
     driver.quit()
 

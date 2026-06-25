@@ -188,7 +188,7 @@ class PIMObjects:
             act.send_keys(Keys.ARROW_DOWN).perform()
 
         act.send_keys(Keys.ENTER).perform()
-    time.sleep(25)
+    # time.sleep(25)
     # set telephone details
     def set_home_contact(self, home_contact):
         self.driver.find_element(By.XPATH, self.home_xpath).send_keys(home_contact)

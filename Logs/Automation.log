@@ -886,3 +886,208 @@
 24-Jun-26 13:38:53:  INFO: email is vermatest4141@gmail
 24-Jun-26 13:38:53:  INFO: other email is asdfjklgh@gmail
 24-Jun-26 13:38:53:  INFO: contact details has been saved
+24-Jun-26 15:07:55:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:07:57:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:07:57:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:07:57:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:09:15:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:09:16:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:09:16:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:09:16:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:09:37:  INFO: Dashboard clicked
+24-Jun-26 15:09:39:  INFO: Dashboard
+24-Jun-26 15:11:30:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:11:32:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:11:32:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:11:32:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:11:42:  INFO: Dashboard clicked
+24-Jun-26 15:11:43:  INFO: Dashboard
+24-Jun-26 15:21:14:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:21:15:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:21:15:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:21:16:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:21:27:  INFO: Dashboard clicked
+24-Jun-26 15:21:28:  INFO: Dashboard
+24-Jun-26 15:21:34:  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599E15F050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640/url
+24-Jun-26 15:21:39:  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599E214410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640/url
+24-Jun-26 15:21:43:  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599E214F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640/url
+24-Jun-26 15:21:52:  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599ECC7890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640
+24-Jun-26 15:21:56:  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599ECC5ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640
+24-Jun-26 15:22:00:  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002599ECC7ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d28b1094f25733db284bda7d344c640
+24-Jun-26 15:33:36:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:33:37:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:33:37:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:33:38:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:33:50:  INFO: Dashboard clicked
+24-Jun-26 15:33:51:  INFO: Dashboard
+24-Jun-26 15:35:56:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:35:57:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:35:57:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:35:57:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:36:10:  INFO: Dashboard clicked
+24-Jun-26 15:36:11:  INFO: Dashboard
+24-Jun-26 15:36:17:  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000214533DAE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b/url
+24-Jun-26 15:36:21:  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021453494450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b/url
+24-Jun-26 15:36:25:  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021453495090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b/url
+24-Jun-26 15:36:34:  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021453F47C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b
+24-Jun-26 15:36:38:  WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021453F45FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b
+24-Jun-26 15:36:42:  WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021453F47FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96cf2da6968462f97ba66bc9dd81d5b
+24-Jun-26 15:37:21:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:37:22:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:37:22:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:37:22:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:37:31:  INFO: Dashboard clicked
+24-Jun-26 15:37:32:  INFO: Dashboard
+24-Jun-26 15:43:30:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:43:31:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:43:31:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:43:31:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:43:45:  INFO: Dashboard clicked
+24-Jun-26 15:43:46:  INFO: Dashboard
+24-Jun-26 15:48:56:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:48:58:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:48:58:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:48:58:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:51:23:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:51:24:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:51:25:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:51:25:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:51:46:  INFO: []
+24-Jun-26 15:53:24:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:53:25:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:53:25:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:53:25:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:53:42:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+24-Jun-26 15:55:51:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:55:52:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:55:52:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:55:52:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+24-Jun-26 15:56:03:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+24-Jun-26 15:56:32:  INFO: ====== WebDriver manager ======
+24-Jun-26 15:56:34:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:56:34:  INFO: Get LATEST chromedriver version for google-chrome
+24-Jun-26 15:56:34:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:03:27:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:03:30:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:03:31:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:03:31:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:03:31:  INFO: WebDriver version 149.0.7827.155 selected
+25-Jun-26 14:03:31:  INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+25-Jun-26 14:03:31:  INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win32/chromedriver-win32.zip
+25-Jun-26 14:03:31:  INFO: Driver downloading response is 200
+25-Jun-26 14:03:34:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:03:35:  INFO: Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+25-Jun-26 14:32:12:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:32:13:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:32:14:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:32:14:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:35:05:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:35:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:35:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:35:07:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:35:38:  INFO: title of quick_lunch  Employee Distribution by Location
+25-Jun-26 14:35:38:  INFO: test_employee_distribution_location passed
+25-Jun-26 14:38:56:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:38:58:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:38:58:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:38:58:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:39:35:  INFO: Dashboard clicked
+25-Jun-26 14:39:36:  INFO: Dashboard
+25-Jun-26 14:46:05:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:46:06:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:46:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:46:07:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:46:39:  INFO: Dashboard clicked
+25-Jun-26 14:46:40:  INFO: Dashboard
+25-Jun-26 14:50:05:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:50:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:50:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:50:07:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:50:39:  INFO: Dashboard clicked
+25-Jun-26 14:50:40:  INFO: Dashboard
+25-Jun-26 14:50:43:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:50:45:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:50:45:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:50:45:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:51:16:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+25-Jun-26 14:51:20:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:51:22:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:51:22:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:51:22:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:51:39:  INFO: title of about About
+25-Jun-26 14:51:41:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:51:42:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:51:42:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:51:43:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:52:15:  INFO: title of support Getting Started with OrangeHRM
+25-Jun-26 14:52:17:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:52:19:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:52:19:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:52:19:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:52:52:  INFO: title of logout Login
+25-Jun-26 14:52:54:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:52:56:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:52:56:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:52:56:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:53:24:  INFO: title of time_work Time at Work
+25-Jun-26 14:53:27:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:53:28:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:53:28:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:53:28:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:54:00:  INFO: title of actions My Actions
+25-Jun-26 14:54:00:  INFO: test_actions passed
+25-Jun-26 14:54:02:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:54:04:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:54:04:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:54:04:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:54:36:  INFO: title of quick_lunch My Actions
+25-Jun-26 14:54:36:  INFO: test_Quick_lunch passed
+25-Jun-26 14:54:38:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:54:40:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:54:40:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:54:40:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:55:04:  INFO: title of quick_lunch Buzz Latest Posts
+25-Jun-26 14:55:04:  INFO: test_buzz_post passed
+25-Jun-26 14:55:08:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:55:10:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:55:10:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:55:10:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:55:38:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 14:55:38:  INFO: test_employee_leave passed
+25-Jun-26 14:55:40:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:55:42:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:55:42:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:55:42:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:56:27:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 14:56:27:  INFO: test_employee_distribution passed
+25-Jun-26 14:56:29:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:56:31:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:56:31:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:56:31:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:57:02:  INFO: title of quick_lunch  Employee Distribution by Location
+25-Jun-26 14:57:02:  INFO: test_employee_distribution_location passed
+25-Jun-26 14:58:13:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:58:15:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:58:15:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:58:15:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:58:52:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:58:53:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:58:53:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:58:53:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 14:59:31:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+25-Jun-26 14:59:33:  INFO: ====== WebDriver manager ======
+25-Jun-26 14:59:35:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:59:35:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 14:59:35:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:00:03:  INFO: title of about About
+25-Jun-26 15:00:06:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:00:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:00:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:00:08:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:00:46:  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000208C9C51A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/743322486ad38ff6b501d43ed10f51f2
+25-Jun-26 15:02:05:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:02:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:02:07:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:02:07:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:02:27:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 15:02:27:  INFO: test_employee_distribution passed
