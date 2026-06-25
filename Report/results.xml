@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="12" time="366.775" timestamp="2026-06-25T15:26:07.327029+05:30" hostname="DESKTOP-IPLD1GT"><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_dashboard_click" time="40.823" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_profile_options" time="36.161" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_about" time="36.409" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_support" time="17.939" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_logout" time="41.277" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_time_work" time="32.871" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_actions" time="44.064"><failure message="selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id='app']/div[1]/div[2]/div[2]/div/div[2]/div/div[1]&quot;}&#10;  (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception&#10;Stacktrace:&#10;&#09;chromedriver!GetHandleVerifier [0x46a543+103f3]&#10;&#09;chromedriver!GetHandleVerifier [0x46a584+10434]&#10;&#09;chromedriver!(No symbol) [0x26a700]&#10;&#09;chromedriver!(No symbol) [0x2b3bab]&#10;&#09;chromedriver!(No symbol) [0x2b3dcb]&#10;&#09;chromedriver!(No symbol) [0x2f5b32]&#10;&#09;chromedriver!(No symbol) [0x2d6114]&#10;&#09;chromedriver!(No symbol) [0x2f339a]&#10;&#09;chromedriver!(No symbol) [0x2d5e66]&#10;&#09;chromedriver!(No symbol) [0x2a9159]&#10;&#09;chromedriver!(No symbol) [0x2a9f24]&#10;&#09;chromedriver!GetHandleVerifier [0x6f4bba+29aa6a]&#10;&#09;chromedriver!GetHandleVerifier [0x6f0119+295fc9]&#10;&#09;chromedriver!GetHandleVerifier [0x71103e+2b6eee]&#10;&#09;chromedriver!GetHandleVerifier [0x4837f6+296a6]&#10;&#09;chromedriver!GetHandleVerifier [0x48a91d+307cd]&#10;&#09;chromedriver!GetHandleVerifier [0x472d18+18bc8]&#10;&#09;chromedriver!GetHandleVerifier [0x472ec5+18d75]&#10;&#09;chromedriver!GetHandleVerifier [0x45c05f+1f0f]&#10;&#09;KERNEL32!BaseThreadInitThunk [0x76abfcc9+19]&#10;&#09;ntdll!RtlGetAppContainerNamedObjectPath [0x770d82ae+11e]&#10;&#09;ntdll!RtlGetAppContainerNamedObjectPath [0x770d827e+ee]">self = &lt;TestCases.test_dashboard.TestDashboard object at 0x0000018FAF6BC950&gt;
+
+    def test_actions(self):
+&gt;       text=self.dashob.check_my_actions()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TestCases\test_dashboard.py:76: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+PageObjects\Dashboard.py:104: in check_my_actions
+    title= self.driver.find_element(By.XPATH, self.my_action_xpath)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+..\..\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py:926: in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+..\..\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py:458: in execute
+    self.error_handler.check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000018FAF7A8890&gt;
+response = {'status': 404, 'value': '{"value":{"error":"no such element","message":"no such element: Unable to locate element: {\...RtlGetAppContainerNamedObjectPath [0x770d82ae+11e]\\n\\tntdll!RtlGetAppContainerNamedObjectPath [0x770d827e+ee]\\n"}}'}
+
+    def check_response(self, response: dict[str, Any]) -&gt; None:
+        """Checks that a JSON response from the WebDriver does not have an
+        error.
+    
+        Args:
+            response: The JSON response from the WebDriver server as a dictionary
+                object.
+    
+        Raises:
+            WebDriverException: If the response contains an error message.
+        """
+        status = response.get("status", None)
+        if not status or status == ErrorCode.SUCCESS:
+            return
+        value = None
+        message = response.get("message", "")
+        screen: str = response.get("screen", "")
+        stacktrace = None
+        if isinstance(status, int):
+            value_json = response.get("value", None)
+            if value_json and isinstance(value_json, str):
+                try:
+                    value = json.loads(value_json)
+                    if isinstance(value, dict):
+                        if len(value) == 1:
+                            value = value["value"]
+                        status = value.get("error", None)
+                        if not status:
+                            status = value.get("status", ErrorCode.UNKNOWN_ERROR)
+                            message = value.get("value") or value.get("message")
+                            if not isinstance(message, str):
+                                value = message
+                                message = message.get("message") if isinstance(message, dict) else None
+                        else:
+                            message = value.get("message", None)
+                except ValueError:
+                    pass
+    
+        exception_class: type[WebDriverException]
+        e = ErrorCode()
+        error_codes = [item for item in dir(e) if not item.startswith("__")]
+        for error_code in error_codes:
+            error_info = getattr(ErrorCode, error_code)
+            if isinstance(error_info, list) and status in error_info:
+                exception_class = getattr(ExceptionMapping, error_code, WebDriverException)
+                break
+        else:
+            exception_class = WebDriverException
+    
+        if not value:
+            value = response["value"]
+        if isinstance(value, str):
+            raise exception_class(value)
+        if message == "" and "message" in value:
+            message = value["message"]
+    
+        screen = None  # type: ignore[assignment]
+        if "screen" in value:
+            screen = value["screen"]
+    
+        stacktrace = None
+        st_value = value.get("stackTrace") or value.get("stacktrace")
+        if st_value:
+            if isinstance(st_value, str):
+                stacktrace = st_value.split("\n")
+            else:
+                stacktrace = []
+                try:
+                    for frame in st_value:
+                        line = frame.get("lineNumber", "")
+                        file = frame.get("fileName", "&lt;anonymous&gt;")
+                        if line:
+                            file = f"{file}:{line}"
+                        meth = frame.get("methodName", "&lt;anonymous&gt;")
+                        if "className" in frame:
+                            meth = f"{frame['className']}.{meth}"
+                        msg = "    at %s (%s)"
+                        msg = msg % (meth, file)
+                        stacktrace.append(msg)
+                except TypeError:
+                    pass
+        if exception_class == UnexpectedAlertPresentException:
+            alert_text = None
+            if "data" in value:
+                alert_text = value["data"].get("text")
+            elif "alert" in value:
+                alert_text = value["alert"].get("text")
+            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+&gt;       raise exception_class(message, screen, stacktrace)
+E       selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div[1]/div[2]/div[2]/div/div[2]/div/div[1]"}
+E         (Session info: chrome=149.0.7827.156); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+E       Stacktrace:
+E       	chromedriver!GetHandleVerifier [0x46a543+103f3]
+E       	chromedriver!GetHandleVerifier [0x46a584+10434]
+E       	chromedriver!(No symbol) [0x26a700]
+E       	chromedriver!(No symbol) [0x2b3bab]
+E       	chromedriver!(No symbol) [0x2b3dcb]
+E       	chromedriver!(No symbol) [0x2f5b32]
+E       	chromedriver!(No symbol) [0x2d6114]
+E       	chromedriver!(No symbol) [0x2f339a]
+E       	chromedriver!(No symbol) [0x2d5e66]
+E       	chromedriver!(No symbol) [0x2a9159]
+E       	chromedriver!(No symbol) [0x2a9f24]
+E       	chromedriver!GetHandleVerifier [0x6f4bba+29aa6a]
+E       	chromedriver!GetHandleVerifier [0x6f0119+295fc9]
+E       	chromedriver!GetHandleVerifier [0x71103e+2b6eee]
+E       	chromedriver!GetHandleVerifier [0x4837f6+296a6]
+E       	chromedriver!GetHandleVerifier [0x48a91d+307cd]
+E       	chromedriver!GetHandleVerifier [0x472d18+18bc8]
+E       	chromedriver!GetHandleVerifier [0x472ec5+18d75]
+E       	chromedriver!GetHandleVerifier [0x45c05f+1f0f]
+E       	KERNEL32!BaseThreadInitThunk [0x76abfcc9+19]
+E       	ntdll!RtlGetAppContainerNamedObjectPath [0x770d82ae+11e]
+E       	ntdll!RtlGetAppContainerNamedObjectPath [0x770d827e+ee]
+
+..\..\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py:233: NoSuchElementException</failure></testcase><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_Quick_lunch" time="26.794" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_buzz_post" time="28.250" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_employee_leave" time="29.012" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_employee_distribution" time="15.295" /><testcase classname="TestCases.test_dashboard.TestDashboard" name="test_employee_distribution_location" time="17.019" /></testsuite></testsuites>

@@ -1091,3 +1091,135 @@
 25-Jun-26 15:02:07:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
 25-Jun-26 15:02:27:  INFO: title of quick_lunch Employees on Leave Today
 25-Jun-26 15:02:27:  INFO: test_employee_distribution passed
+25-Jun-26 15:26:07:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:26:09:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:26:09:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:26:09:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:26:44:  INFO: Dashboard clicked
+25-Jun-26 15:26:45:  INFO: Dashboard
+25-Jun-26 15:26:48:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:26:49:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:26:50:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:26:50:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:27:21:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+25-Jun-26 15:27:24:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:27:25:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:27:25:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:27:26:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:27:58:  INFO: title of about About
+25-Jun-26 15:28:00:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:28:02:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:28:02:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:28:02:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:28:16:  INFO: title of support Getting Started with OrangeHRM
+25-Jun-26 15:28:18:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:28:20:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:28:20:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:28:20:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:28:57:  INFO: title of logout Login
+25-Jun-26 15:29:00:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:29:01:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:29:01:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:29:01:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:29:30:  INFO: title of time_work Time at Work
+25-Jun-26 15:29:32:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:29:34:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:29:34:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:29:34:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:30:17:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:30:19:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:30:19:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:30:19:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:30:42:  INFO: title of quick_lunch My Actions
+25-Jun-26 15:30:42:  INFO: test_Quick_lunch passed
+25-Jun-26 15:30:44:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:30:45:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:30:46:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:30:46:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:31:10:  INFO: title of quick_lunch Buzz Latest Posts
+25-Jun-26 15:31:10:  INFO: test_buzz_post passed
+25-Jun-26 15:31:12:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:31:14:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:14:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:14:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:31:39:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 15:31:39:  INFO: test_employee_leave passed
+25-Jun-26 15:31:41:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:31:42:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:43:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:43:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:31:54:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 15:31:54:  INFO: test_employee_distribution passed
+25-Jun-26 15:31:57:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:31:58:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:58:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:31:58:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:32:11:  INFO: title of quick_lunch  Employee Distribution by Location
+25-Jun-26 15:32:11:  INFO: test_employee_distribution_location passed
+25-Jun-26 15:38:26:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:38:27:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:38:27:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:38:27:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:38:38:  INFO: Dashboard clicked
+25-Jun-26 15:38:39:  INFO: Dashboard
+25-Jun-26 15:38:42:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:38:43:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:38:43:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:38:43:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:38:57:  INFO: ['About', 'Support', 'Change Password', 'Logout']
+25-Jun-26 15:38:59:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:39:01:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:01:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:01:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:39:19:  INFO: title of about About
+25-Jun-26 15:39:22:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:39:23:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:23:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:23:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:39:43:  INFO: title of support Getting Started with OrangeHRM
+25-Jun-26 15:39:47:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:39:48:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:48:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:39:49:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:40:09:  INFO: title of logout Login
+25-Jun-26 15:40:12:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:40:13:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:13:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:14:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:40:28:  INFO: title of time_work Time at Work
+25-Jun-26 15:40:31:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:40:32:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:32:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:32:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:40:44:  INFO: title of actions My Actions
+25-Jun-26 15:40:44:  INFO: test_actions passed
+25-Jun-26 15:40:46:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:40:47:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:48:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:40:48:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:41:02:  INFO: title of quick_lunch My Actions
+25-Jun-26 15:41:02:  INFO: test_Quick_lunch passed
+25-Jun-26 15:41:04:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:41:06:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:06:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:06:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:41:18:  INFO: title of quick_lunch Buzz Latest Posts
+25-Jun-26 15:41:18:  INFO: test_buzz_post passed
+25-Jun-26 15:41:21:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:41:22:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:22:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:22:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:41:35:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 15:41:35:  INFO: test_employee_leave passed
+25-Jun-26 15:41:38:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:41:39:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:39:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:39:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:41:51:  INFO: title of quick_lunch Employees on Leave Today
+25-Jun-26 15:41:51:  INFO: test_employee_distribution passed
+25-Jun-26 15:41:53:  INFO: ====== WebDriver manager ======
+25-Jun-26 15:41:55:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:55:  INFO: Get LATEST chromedriver version for google-chrome
+25-Jun-26 15:41:55:  INFO: Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win32/chromedriver.exe] found in cache
+25-Jun-26 15:42:06:  INFO: title of quick_lunch  Employee Distribution by Location
+25-Jun-26 15:42:06:  INFO: test_employee_distribution_location passed
